@@ -1,0 +1,20 @@
+"""
+START
+
+Declare monthly_budget
+Declare total_expenses = 0
+
+Input monthly_budget
+Input number_of_expenses
+
+For each expense:
+    Input expense
+    Add expense to total_expenses
+
+If total_expenses > monthly_budget:
+    Display over budget amount
+Else:
+    Display under budget amount
+
+END
+"""
