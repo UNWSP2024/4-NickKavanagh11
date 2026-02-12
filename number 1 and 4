@@ -1,0 +1,33 @@
+Start
+Set total_tickets = 0
+Input number_of_movies
+
+For each movie in range(number_of_movies):
+    Input movie_name
+    Input tickets
+    total_tickets += tickets
+
+Print total_tickets
+End
+
+
+"""
+START
+
+Declare monthly_budget
+Declare total_expenses = 0
+
+Input monthly_budget
+Input number_of_expenses
+
+For each expense:
+    Input expense
+    Add expense to total_expenses
+
+If total_expenses > monthly_budget:
+    Display over budget amount
+Else:
+    Display under budget amount
+
+END
+"""
