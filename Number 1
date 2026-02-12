@@ -1,0 +1,11 @@
+Start
+Set total_tickets = 0
+Input number_of_movies
+
+For each movie in range(number_of_movies):
+    Input movie_name
+    Input tickets
+    total_tickets += tickets
+
+Print total_tickets
+End
